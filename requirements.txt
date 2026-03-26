@@ -5,4 +5,3 @@ altair==6.0.0
 streamlit-autorefresh
 requests
 plotly
-ctrader-open-api
